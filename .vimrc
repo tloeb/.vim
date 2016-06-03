@@ -78,7 +78,7 @@ set tabstop=4
 "set color="true"
 syntax enable
 set background=dark
-colorscheme solarized 
+colorscheme default 
 
 " Syntax Highlighting aktivieren
 filetype plugin on
